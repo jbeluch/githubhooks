@@ -3,7 +3,7 @@ from setuptools import setup
 
 
 setup(name='githubhooks',
-    version='0.1',
+    version='0.2-dev',
     description='List and Test Github hooks from the command line',
     author='Jonathan Beluch',
     author_email='web@jonathanbeluch.com',
