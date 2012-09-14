@@ -33,7 +33,7 @@ Example Usage
     Triggering hook travis for xbmc-vimcasts... OK
 
 
-## Specifying hoks to run from a config file
+## Specifying hooks to run from a config file
     (github-hooks)jon@lenovo ~/Code/github-hooks $ cat hooks 
     # travis
     xam:414859
